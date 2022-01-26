@@ -13,6 +13,7 @@ import java.util.List;
 @Service
 public class PersonajeServiceImpl implements PersonajeService {
 
+    //TODO: FALTA TERMINAR
     /*private PersonajeSpecification personajeSpecification;
 
     @Autowired
